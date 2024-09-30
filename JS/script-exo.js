@@ -86,14 +86,26 @@ moyenne = somme2 / tableauDeNombres2.length;
 console.log(moyenne)
 
 //Déterminez le nombre de fois où le nombre 50 apparaît dans le tableau "tableauDeNombres2".
+let nb50 = 0;
 
+for (let i = 0; i < tableauDeNombres2.length; i++) {
+    if (tableauDeNombres2[i] == 50) {
+        nb50++
+    }
+}
+console.log(nb50)
 
 //Retournez le tableau "tableauDeNombres2" inversé.
 console.log(tableauDeNombres2.reverse())
 
 //Retournez un tableau contenant uniquement les nombres impairs du tableau "tableauDeNombres2".
-
-
+let tabImpaire = []
+for (let i = 0; i < tableauDeNombres2.length; i++) {
+    if (tableauDeNombres2[i] % 2 !== 0) {
+        tabImpaire.push(tableauDeNombres2[i])
+    }
+}
+console.log(tabImpaire)
 //Créez un tableau nommé "tableauDeMots2" contenant des mots aléatoires. Ensuite, triez ce tableau par ordre alphabétique.
 
 
@@ -101,3 +113,5 @@ console.log(tableauDeNombres2.reverse())
 
 
 //Transformez le tableau "tableauDeMots2" en une chaîne de caractères contenant tous les mots, séparés par une virgule et un espace.
+
+let x = 3
