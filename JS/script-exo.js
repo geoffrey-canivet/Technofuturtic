@@ -108,6 +108,7 @@ for (let i = 0; i < tableauDeNombres2.length; i++) {
 console.log(tabImpaire)
 //Créez un tableau nommé "tableauDeMots2" contenant des mots aléatoires. Ensuite, triez ce tableau par ordre alphabétique.
 const tableauDeMots2 = ['un', 'deux', "trois", "quatre", "cinq", "six", "motdeplusde5lettres"];
+console.log(tableauDeMots2.sort())
 
 
 //Retournez un tableau contenant uniquement les mots de plus de 5 caractères dans le tableau "tableauDeMots2".
@@ -121,5 +122,5 @@ for (mot in tableauDeMots2){
 console.log(newTab)
 
 //Transformez le tableau "tableauDeMots2" en une chaîne de caractères contenant tous les mots, séparés par une virgule et un espace.
-
+console.log(tableauDeMots2.join(", "))
 
