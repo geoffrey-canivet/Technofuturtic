@@ -110,7 +110,6 @@ console.log(tabImpaire)
 const tableauDeMots2 = ['un', 'deux', "trois", "quatre", "cinq", "six", "motdeplusde5lettres"];
 console.log(tableauDeMots2.sort())
 
-
 //Retournez un tableau contenant uniquement les mots de plus de 5 caractères dans le tableau "tableauDeMots2".
 let newTab = []
 for (mot in tableauDeMots2){
@@ -123,4 +122,59 @@ console.log(newTab)
 
 //Transformez le tableau "tableauDeMots2" en une chaîne de caractères contenant tous les mots, séparés par une virgule et un espace.
 console.log(tableauDeMots2.join(", "))
+
+// Calcul de la TVA Écrire un programme qui : 
+// 1. Demande à l’utilisateur un prix unitaire hors taxe d’un livre 
+// 2. Demande à l’utilisateur la quantité de livre 
+// 3. Calcule et affiche le prix total TTC de la commande, en utilisant une TVA de 21% Pour interagir avec 
+// l’utilisateur, vous utiliserez les fonctions d’entrée/sortie prompt() et alert(). 
+// let userInput = prompt("Entrez le prix unitaire hors taxe d’un livre:")
+// let prixAvecTVA = (21 / 100) * userInput;
+// alert((parseInt(userInput) + prixAvecTVA))
+
+// Utilisez l’objet Date et des structures conditionnelles, écrivez un programme qui affiche le jour de la semaine. 
+// Exemple : « Bonjour, nous sommes lundi! »
+let jour = new Date;
+switch (jour.getDay()) {
+    case 0:
+        
+        break;
+        case 0:
+            console.log("Bonjour, nous sommes dimanche!")
+        break;
+        case 1:
+            console.log("Bonjour, nous sommes lundi!")
+        break;
+        case 2:
+            console.log("Bonjour, nous sommes mardi!")
+        break;
+        case 3:
+            console.log("Bonjour, nous sommes mercredi!")
+        break;
+        case 4:
+            console.log("Bonjour, nous sommes jeudi!")
+        break;
+        case 5:
+            console.log("Bonjour, nous sommes vendredi!")
+        break;
+        case 6:
+            console.log("Bonjour, nous sommes smedi!")
+        break;
+    default:
+        console.log("Erreur")
+        break;
+}
+
+// Réalisez un programme qui permet d’afficher, dans la console, la structure suivante à l’aide d’une boucle :
+let lettre = "A"
+for (let i = 1; i <= 10; i++) {
+    console.log(lettre.repeat(i));
+}
+
+// Créez une fonction inverser(chaine) qui effectuera une inversion des caractères d’une chaîne et affichera le résultat en console et en alerte.
+const stringRevers = (chaine) => {
+    console.log(chaine.split("").reverse().join(""))
+
+}
+stringRevers("je suis une chaine de carractère")
 
