@@ -137,7 +137,6 @@ console.log(tableauDeMots2.join(", "))
 let jour = new Date;
 switch (jour.getDay()) {
     case 0:
-        
         break;
         case 0:
             console.log("Bonjour, nous sommes dimanche!")
@@ -174,7 +173,42 @@ for (let i = 1; i <= 10; i++) {
 // Créez une fonction inverser(chaine) qui effectuera une inversion des caractères d’une chaîne et affichera le résultat en console et en alerte.
 const stringRevers = (chaine) => {
     console.log(chaine.split("").reverse().join(""))
-
 }
 stringRevers("je suis une chaine de carractère")
+
+// Pour les valeurs de 1 à 10, pour afficher un message pour tous les nombres paires disant : "Chouette, un nombre paire!"
+const nombre = [1,2,3,4,5,6,7,8,9,10]
+nombre.forEach(el => {
+    if (el % 2 === 0) {
+        console.log('Chouette, un nombre paire! :>> ', el);
+    }
+});
+
+// Afficher chaque lettre d'un mot au choix.
+const nom = "geoffrey"
+const newNom = nom.split("")
+newNom.forEach(el => {
+    console.log(el)
+});
+
+// Réalisons par étapes une division entière:
+// Pour cela, on commence avec un nombre et un autre qui sera son diviseur
+// Chaque fois que l'on pourra effectuer la division, afficher à quelle itération la boucle est arrivé
+// Enfin afficher une phrase final du genre "le nombre a peut-être divisé x fois par b avec un reste de c"
+
+function division(nombre, diviseur) {
+    let iterations = 0;
+    let base = nombre;
+
+    while (nombre >= diviseur) {
+        nombre -= diviseur; 
+        iterations++;  
+        console.log(`Itération ${iterations} : il reste ${nombre}`);
+    }
+
+    console.log(`Le nombre ${base} a été divisé ${iterations} fois par ${diviseur} avec un reste de ${nombre}`);
+}
+
+// Exemple d'utilisation
+division(20, 3);
 
