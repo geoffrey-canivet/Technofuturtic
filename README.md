@@ -53,7 +53,7 @@
 
 <u>Cartes dépenses fixes:</u>
 
-- **Détails d'une cartes**
+- **Détails d'une carte.**
 
   - 1/ Nom de la carte.
   - 2/ Nom des dépenses.
@@ -72,15 +72,47 @@
 
 
 ---
+**Partiee 5**  
 
-<ol>
-      <li>Sous-élément 2.1</li>
-      <li>Sous-élément 2.2</li>
-      <ol>
-         <li>Sous-sous-élément 2.2.1</li>
-         <li>Sous-sous-élément 2.2.2</li>
-      </ol>
-   </ol>
+<u>Cartes dépenses Occasionnelles:</u>
+
+- **Détails d'une carte.**
+
+  - 1/ Nom de la carte.
+  - 2/ Nom des dépenses.
+  - 3/ Somme des coups d'une dépenses.
+  - 4/ Affiche les détailles de chaques dépenses. 
+  - 5/ Afficher graphique circulaire de la carte.
+  - 6/ Ajouter une nouvelles dépense.
+    - 6.1/ Nom de l'achat.
+    - 6.2/ Date de l'achat.
+    - 6.3/ Nom du commerce
+    - 6.4/ Prix de l'achat.
+    - 6.5/ Commentaire. 
+  - 7/ Modifier coup d'une dépense.
+    - 7.1/ Prix de l'achat.
+    - 7.2/ Date de l'achat.
+    - 7.3/ Nom du commerce
+    - 7.4/ Commentaire
+  - 8/ Supprimer une dépense.
+  - 9/ scrollbar.
+  - 10/ Total de la carte de dépense. 
+
+![APLF-card-fixe-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-occasionnelle-details.png)
+![APLF-card-fixe-graphique-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-occasionnelle-graphique-details.png)
+![APLF-card-fixe-ajout-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-occasionnelle-ajout-categorie-details.png)
+![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-occasionnelle-modifiert-categorie-details.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
