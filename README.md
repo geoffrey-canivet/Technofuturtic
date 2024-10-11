@@ -45,7 +45,7 @@
   - 8/ Accordion de visualisation graphique et comparaison.
   - 9/ Footer bar, mémoire local storage utilisée, logo applab, heure.
 
-  ![Description de l'image](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-dashboard-details.png)
+  ![APLF-dashboard-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-dashboard-details.png)
 
 ---
 
@@ -55,16 +55,17 @@
 
 - **Détails d'une cartes**
 
-  - 1/ Menu side bar gauche, liste des autres application AppLab.
-  - 2/ Menu général de l'application finance. 
-  - 3/ Menu des périodes.
-  - 4/ Slider récapitulatif.
-  - 5/ Accordion des dépenses fixes.
+  - 1/ Nom de la carte.
+  - 2/ Nom des dépenses.
+  - 3/ Somme des dépenses.
+  - 4/ Afficher graphique circulaire de la carte.
+  - 5/ Ajouter une dépense.
   - 6/ Accordion des dépenses occasionnelles.
   - 7/ Accordion des détails mensuelles.
   - 8/ Accordion de visualisation graphique et comparaison.
   - 9/ Footer bar, mémoire local storage utilisée, logo applab, heure.
 
+![APLF-card-fixe-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-details.png)
 ![Description de l'image](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-details.png)
 
 
