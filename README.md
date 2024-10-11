@@ -23,7 +23,7 @@
 
 <u>L'utilisateur arrive pour la premiere fois sur le dashboard:</u>
 
-- **Configuration de base.**
+- **Bienvenue.**
 
   - L'utilisateur est invité à choisir un nom d'utilisateur. Un bref message de bienvenue s'affiche et donne acces au dashboard.
 
@@ -33,9 +33,12 @@
 
 <u>L'utilisateur arrive pour la premiere fois sur le dashboard:</u>
 
-- **Configuration de base.**
+- **Détails du dashboard.**
 
-  - L'utilisateur est invité à choisir un nom d'utilisateur. Un bref message de bienvenue s'affiche et donne acces au dashboard.
+  1. Dans le coin supérieur droit 
+  2. Dans le coin supérieur droit 
+  3. Dans le coin supérieur droit 
+  4. Dans le coin supérieur droit 
 
 ---
 
