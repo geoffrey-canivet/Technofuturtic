@@ -18,6 +18,18 @@ C. **Connexion.**
   - L'utilisateur est redirigé vers la page dashboard. 
 
 
+---
+
+- **Inscription.**
+  - L'utilisateur est redirigé sur la page de création de compte.
+- **Reinitialisation du mot de passe.**
+  - L'utilisateur est redirigé vers la page de récpération du mot de passe. 
+- **Connexion.**
+  - L'utilisateur est redirigé vers la page dashboard.  
+
+
+
+
 
 
 
@@ -34,8 +46,7 @@ C. **Connexion.**
 
 ### Liste non ordonnée
 
-- Élément de liste 1
-- Élément de liste 2
+- **Inscription.**
   - Sous-élément de liste
 
 ### Liste ordonnée
