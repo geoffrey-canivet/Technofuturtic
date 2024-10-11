@@ -57,16 +57,17 @@
 
   - 1/ Nom de la carte.
   - 2/ Nom des dépenses.
-  - 3/ Somme des dépenses.
+  - 3/ Coup d'une dépenses.
   - 4/ Afficher graphique circulaire de la carte.
-  - 5/ Ajouter une dépense.
-  - 6/ Accordion des dépenses occasionnelles.
-  - 7/ Accordion des détails mensuelles.
-  - 8/ Accordion de visualisation graphique et comparaison.
-  - 9/ Footer bar, mémoire local storage utilisée, logo applab, heure.
+  - 5/ Ajouter une nouvelles dépense.
+  - 6/ Modifier coup d'une dépense.
+  - 7/ Supprimer une dépense.
+  - 8/ scrollbar.
+  - 9/ Total de la carte de dépense. 
 
 ![APLF-card-fixe-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-details.png)
-![Description de l'image](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-graphique-details.png)
+![APLF-card-fixe-graphique-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-graphique-details.png)
+![APLF-card-fixe-ajout-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-ajout-categorie-details.png)
 
 
 
