@@ -8,12 +8,17 @@
 
 L'utilisateur arrive sur la page index.
 
-1. Inscription.
-    1. L'utilisateur est redirigé sur la page de création de compte. 
-2. Reinitialisation du mot de passe.
-    1. L'utilisateur est redirigé vers la page de récpération du mot de passe. 
-3. Connexion.
-    1. L'utilisateur est redirigé vers la page dashboard. 
+A. Inscription.
+    
+  - L'utilisateur est redirigé sur la page de création de compte. 
+
+B. Reinitialisation du mot de passe.
+
+  - L'utilisateur est redirigé vers la page de récpération du mot de passe. 
+
+C. Connexion.
+
+  - L'utilisateur est redirigé vers la page dashboard. 
 
 
 
