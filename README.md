@@ -86,13 +86,13 @@
   - 6/ Ajouter une nouvelles dépense.
     - 6.1/ Nom de l'achat.
     - 6.2/ Date de l'achat.
-    - 6.3/ Nom du commerce
+    - 6.3/ Nom du commerce, possbilité de rajouter des commerce via le menu rêglages.
     - 6.4/ Prix de l'achat.
     - 6.5/ Commentaire. 
   - 7/ Modifier le coup d'une dépense.
     - 7.1/ Prix de l'achat.
     - 7.2/ Date de l'achat.
-    - 7.3/ Nom du commerce
+    - 7.3/ Nom du commerce, possbilité de rajouter des commerce via le menu rêglages.
     - 7.4/ Commentaire
   - 8/ Supprimer une dépense.
   - 9/ scrollbar.
