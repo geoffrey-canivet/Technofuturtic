@@ -1,8 +1,5 @@
 # AppLab Finance.
-
 ## Guide utilisateur.
-
----
 
 **Etape 1**  
 
