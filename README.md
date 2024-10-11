@@ -5,15 +5,15 @@
 
 L'utilisateur arrive sur la page index.
 
-A. Inscription.
+A. **Inscription.**
     
   - L'utilisateur est redirigé sur la page de création de compte. 
 
-B. Reinitialisation du mot de passe.
+B. **Reinitialisation du mot de passe.**
 
   - L'utilisateur est redirigé vers la page de récpération du mot de passe. 
 
-C. Connexion.
+C. **Connexion.**
 
   - L'utilisateur est redirigé vers la page dashboard. 
 
