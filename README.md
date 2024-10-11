@@ -3,22 +3,7 @@
 
 **Etape 1**  
 
-L'utilisateur arrive sur la page index.
-
-A. **Inscription.**
-    
-  - L'utilisateur est redirigé sur la page de création de compte. 
-
-B. **Reinitialisation du mot de passe.**
-
-  - L'utilisateur est redirigé vers la page de récpération du mot de passe. 
-
-C. **Connexion.**
-
-  - L'utilisateur est redirigé vers la page dashboard. 
-
-
----
+<u>L'utilisateur arrive sur la page index.</u>
 
 - **Inscription.**
 
@@ -27,13 +12,12 @@ C. **Connexion.**
 - **Reinitialisation du mot de passe.**
 
   - L'utilisateur est redirigé vers la page de récpération du mot de passe. 
-
+  
 - **Connexion.**
 
   - L'utilisateur est redirigé vers la page dashboard.  
-  
 
-
+---
 
 
 
