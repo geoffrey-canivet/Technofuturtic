@@ -70,8 +70,8 @@
 ![APLF-card-fixe-ajout-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-ajout-categorie-details.png)
 ![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-modifiert-categorie-details.png)
 
-
 ---
+
 **Partiee 5**  
 
 <u>Cartes dépenses Occasionnelles:</u>
@@ -103,14 +103,24 @@
 ![APLF-card-fixe-ajout-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-coccasionnelle-ajout-categorie-details.png)
 ![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-coccasionnelle-ajout-depense-details.png)
 
+---
 
+**Partiee 6**  
 
+<u>Tableau détaillé des dépenses par carte:</u>
 
+- **Détails du tableau.**
 
+  - 1/ Choix du nombres de type de dépense.
+  - 2/ Rechercher dans n'importe quelle colonne du tableau
+  - 3/ Nombre d'achat par dépense.
+  - 4/ Nom de la dépense. 
+  - 5/ Somme du type de dépense.
+  - 6/ Barre de progression.
+  - 7/ Pourcentage de progression.
+  - 8/ Outils.
 
-
-
-
+![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-table-coccasionnelle-details.png)
 
 
 
