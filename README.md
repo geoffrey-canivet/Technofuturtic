@@ -46,7 +46,7 @@
   - 9/ Footer bar, mémoire local storage utilisée, logo applab, heure.
 
 
-  ![Description de l'image](https://raw.githubusercontent.com/geoffrey-canivet/Technofuturtic/a210ca569c1086e3a19c85cc30fab3819d0172c4/Readme/APLF-dashboard-details.svg)
+  ![Description de l'image](https://raw.githubusercontent.com/geoffrey-canivet/Technofuturtic/a210ca569c1086e3a19c85cc30fab3819d0172c4/Readme/APLF-dashboard-details01.svg)
 
 ---
 
