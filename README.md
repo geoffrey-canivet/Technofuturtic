@@ -126,55 +126,21 @@
 
 ---
 
-
-
-
-**Texte en gras**  
-*Texte en italique*  
-***Texte en gras et italique***  
-~~Texte barré~~  
-<u>Texte souligné</u>  
-
----
-
-> Ceci est une citation avec la syntaxe blockquote.
-
-### Liste non ordonnée
-
-- **Inscription.**
-  - Sous-élément de liste
-
-### Liste ordonnée
-
-1. Premier élément
-2. Deuxième élément
-   1. Sous-élément 1
-   2. Sous-élément 2
-
----
-
-### Lien
-
-[Visiter Google](https://www.google.com)
-
----
-
-### Image
-
-![Description de l'image](https://raw.githubusercontent.com/geoffrey-canivet/Technofuturtic/8a2df471ce1ad146e8e15ed02808ffb3478ebe6f/Readme/APLF-dashboard-details.svg)
-
----
-
-### Tableau
-
-| Colonne 1   | Colonne 2   | Colonne 3   |
-|-------------|-------------|-------------|
-| Ligne 1, C1 | Ligne 1, C2 | Ligne 1, C3 |
-| Ligne 2, C1 | Ligne 2, C2 | Ligne 2, C3 |
-
----
-
 ### Technologies
+
+- Html
+- Css
+  - Bootstrap
+  - Sass
+- Javascript
+  - JQuery 
+  - Flickity (Pour le slider récapitulatif) [Lien](https://flickity.metafizzy.co/)
+  - Chart.js (Pour les graphiques) [Lien](https://www.chartjs.org/)
+  - SweetAlert (Pour les alerts) [Lien](https://sweetalert2.github.io/)
+  - DataTables (Pour les tableau détaillé) [Lien](https://datatables.net/)
+
+---
+
 
 git add .
 git commit -m ".md"
