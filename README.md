@@ -42,14 +42,14 @@
 
 ---
 
-1. Élément 1
-2. Élément 2
-   1. Sous-élément 2.1
-   2. Sous-élément 2.2
-      1. Sous-sous-élément 2.2.1
-      2. Sous-sous-élément 2.2.2
-3. Élément 3
-4. Élément 4
+<ol>
+      <li>Sous-élément 2.1</li>
+      <li>Sous-élément 2.2</li>
+      <ol>
+         <li>Sous-sous-élément 2.2.1</li>
+         <li>Sous-sous-élément 2.2.2</li>
+      </ol>
+   </ol>
 
 
 
