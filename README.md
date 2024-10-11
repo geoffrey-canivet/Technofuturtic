@@ -3,7 +3,7 @@
 
 **Etape 1**  
 
-<u>L'utilisateur arrive sur la page index.</u>
+<u>L'utilisateur arrive sur la page index:</u>
 
 - **Inscription.**
 
@@ -16,6 +16,26 @@
 - **Connexion.**
 
   - L'utilisateur est redirigé vers la page dashboard.  
+
+---
+
+**Etape 2**  
+
+<u>L'utilisateur arrive pour la premiere fois sur le dashboard:</u>
+
+- **Configuration de base.**
+
+  - L'utilisateur est invité à choisir un nom d'utilisateur. Un bref message de bienvenue s'affiche et donne acces au dashboard.
+
+---
+
+**Etape 3**  
+
+<u>L'utilisateur arrive pour la premiere fois sur le dashboard:</u>
+
+- **Configuration de base.**
+
+  - L'utilisateur est invité à choisir un nom d'utilisateur. Un bref message de bienvenue s'affiche et donne acces au dashboard.
 
 ---
 
