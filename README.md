@@ -21,11 +21,17 @@ C. **Connexion.**
 ---
 
 - **Inscription.**
+
   - L'utilisateur est redirigé sur la page de création de compte.
+
 - **Reinitialisation du mot de passe.**
+
   - L'utilisateur est redirigé vers la page de récpération du mot de passe. 
+
 - **Connexion.**
+
   - L'utilisateur est redirigé vers la page dashboard.  
+  
 
 
 
