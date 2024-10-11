@@ -35,10 +35,10 @@
 
 - **Détails du dashboard.**
 
-  1. Dans le coin supérieur droit 
-  2. Dans le coin supérieur droit 
-  3. Dans le coin supérieur droit 
-  4. Dans le coin supérieur droit 
+  1 Dans le coin supérieur droit 
+  2 Dans le coin supérieur droit 
+  3 Dans le coin supérieur droit 
+  4 Dans le coin supérieur droit 
 
 ---
 
