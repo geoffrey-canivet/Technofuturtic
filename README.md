@@ -6,14 +6,14 @@
 
 **Etape 1**  
 
-L'utilisateur arrive sur l'index.
+L'utilisateur arrive sur la page index.
 
 1. Inscription.
-  1. L'utilisateur est redirigé sur la page de création de compte. 
+    1. L'utilisateur est redirigé sur la page de création de compte. 
 2. Reinitialisation du mot de passe.
-  1. L'utilisateur est redirigé vers la page de récpération du mot de passe. 
+    1. L'utilisateur est redirigé vers la page de récpération du mot de passe. 
 3. Connexion.
-  1. L'utilisateur est redirigé vers la page dashboard. 
+    1. L'utilisateur est redirigé vers la page dashboard. 
 
 
 
@@ -76,3 +76,7 @@ Blocs de code multi-lignes :
 function helloWorld() {
     console.log('Hello world!');
 }
+
+git add .
+git commit -m ".md"
+git push 
