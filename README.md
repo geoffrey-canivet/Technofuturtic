@@ -35,10 +35,16 @@
 
 - **Détails du dashboard.**
 
-  - 1/ Dans le coin supérieur droit 
-  - 2/ Dans le coin supérieur droit 
-  - 3/ Dans le coin supérieur droit 
-  - 4/ Dans le coin supérieur droit 
+  - 1/ Menu side bar gauche, liste des autres application AppLab.
+  - 2/ Menu général de l'application finance. 
+  - 3/ Menu des périodes.
+  - 4/ Slider récapitulatif.
+  - 5/ Accordion des dépenses fixes.
+  - 6/ Accordion des dépenses occasionnelles.
+  - 7/ Accordion des détails mensuelles.
+  - 8/ Accordion de visualisation graphique et comparaison.
+  - 9/ Footer bar, mémoire local storage utilisée, logo applab, heure.
+
 
   ![Description de l'image](https://raw.githubusercontent.com/geoffrey-canivet/Technofuturtic/a210ca569c1086e3a19c85cc30fab3819d0172c4/Readme/APLF-dashboard-details.svg)
 
