@@ -94,7 +94,7 @@
 
 ### Image
 
-![Description de l'image](https://raw.githubusercontent.com/geoffrey-canivet/Technofuturtic/a210ca569c1086e3a19c85cc30fab3819d0172c4/Readme/APLF-dashboard-details.svg)
+![Description de l'image](https://raw.githubusercontent.com/geoffrey-canivet/Technofuturtic/8a2df471ce1ad146e8e15ed02808ffb3478ebe6f/Readme/APLF-dashboard-details.svg)
 
 ---
 
