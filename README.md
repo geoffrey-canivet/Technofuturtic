@@ -66,7 +66,7 @@
   - 9/ Footer bar, mémoire local storage utilisée, logo applab, heure.
 
 ![APLF-card-fixe-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-details.png)
-![Description de l'image](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-details.png)
+![Description de l'image](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-graphique-details.png)
 
 
 
