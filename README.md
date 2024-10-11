@@ -1,12 +1,24 @@
 # AppLab Finance.
 
-## Guide utilisateur. (H2)
-
->[!TIP]
->
->This is a standard TIP.
+## Guide utilisateur.
 
 ---
+
+**Etape 1**  
+
+L'utilisateur arrive sur l'index.
+
+1. Inscription.
+  1. L'utilisateur est redirigé sur la page de création de compte. 
+2. Reinitialisation du mot de passe.
+  1. L'utilisateur est redirigé vers la page de récpération du mot de passe. 
+3. Connexion.
+  1. L'utilisateur est redirigé vers la page dashboard. 
+
+
+
+
+
 
 **Texte en gras**  
 *Texte en italique*  
