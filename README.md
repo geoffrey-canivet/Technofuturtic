@@ -1,6 +1,8 @@
 # AppLab Finance.
 ## Guide utilisateur.
 
+
+
 **Partie 1**  
 
 <u>L'utilisateur arrive sur la page index:</u>
@@ -89,7 +91,7 @@
     - 6.3/ Nom du commerce
     - 6.4/ Prix de l'achat.
     - 6.5/ Commentaire. 
-  - 7/ Modifier coup d'une dépense.
+  - 7/ Modifier le coup d'une dépense.
     - 7.1/ Prix de l'achat.
     - 7.2/ Date de l'achat.
     - 7.3/ Nom du commerce
@@ -122,7 +124,7 @@
 
 ![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-table-coccasionnelle-details.png)
 
-
+---
 
 
 
@@ -172,16 +174,7 @@
 
 ---
 
-### Code
-
-Blocs de code en ligne : `console.log('Hello world!')`
-
-Blocs de code multi-lignes :
-
-```js
-function helloWorld() {
-    console.log('Hello world!');
-}
+### Technologies
 
 git add .
 git commit -m ".md"
