@@ -1,7 +1,7 @@
 # AppLab Finance.
 ## Guide utilisateur.
 
-**Etape 1**  
+**Partie 1**  
 
 <u>L'utilisateur arrive sur la page index:</u>
 
@@ -19,7 +19,7 @@
 
 ---
 
-**Etape 2**  
+**Partiee 2**  
 
 <u>L'utilisateur arrive pour la premiere fois sur le dashboard:</u>
 
@@ -29,7 +29,7 @@
 
 ---
 
-**Etape 3**  
+**Partie 3**  
 
 <u>L'utilisateur arrive pour la premiere fois sur le dashboard:</u>
 
@@ -47,6 +47,16 @@
 
 
   ![Description de l'image](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-dashboard-details.png?raw=true)
+
+---
+
+**Partiee 4**  
+
+<u>Cartes dépenses fixes:</u>
+
+- **Détails des cartes**
+
+  - L'utilisateur est invité à choisir un nom d'utilisateur. Un bref message de bienvenue s'affiche et donne acces au dashboard.
 
 ---
 
