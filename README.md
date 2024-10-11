@@ -1,8 +1,6 @@
 # AppLab Finance.
 ## Guide utilisateur.
 
-
-
 **Partie 1**  
 
 <u>L'utilisateur arrive sur la page index:</u>
@@ -123,6 +121,23 @@
   - 8/ Outils.
 
 ![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-table-coccasionnelle-details.png)
+
+---
+
+**Partiee 7**  
+
+<u>Les différent reglages:</u>
+
+- **Rêglages utilisateur.**
+
+  - 1/ Renvois vers la gestion du profil utilisateur.
+  - 2/ Renvois vers la gestion des préférances de l'interface utilisateur. 
+  - 3/ Renvois vers la gestion des rêglages de l'application. 
+  - 4/ Renvois vers la gestion des élèments critiques.
+  - 5/ déconnexte l'utilisateur et renvois vers l'index. 
+
+
+![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-menu-droite-details.png)
 
 ---
 
