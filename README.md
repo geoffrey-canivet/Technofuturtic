@@ -68,7 +68,7 @@
 ![APLF-card-fixe-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-details.png)
 ![APLF-card-fixe-graphique-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-graphique-details.png)
 ![APLF-card-fixe-ajout-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-ajout-categorie-details.png)
-
+![APLF-card-fixe-modifiert-categorie-details.png](https://github.com/geoffrey-canivet/Technofuturtic/blob/main/Readme/APLF-card-fixe-modifiert-categorie-details.png)
 
 
 ---
