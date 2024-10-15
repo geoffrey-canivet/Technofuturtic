@@ -64,39 +64,4 @@ public class Tableaux {
         }
         System.out.println("Tableau modifié : " + Arrays.toString(tabString));
     }
-
-
-
-    static void exo2bis(){
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Entrez un nombre : ");
-        int n = scanner.nextInt();  // Le nombre que l'utilisateur entre
-
-        // Taille du tableau : (2n + 1) x (2n + 1)
-        int size = 2 * n + 1;
-
-        int[][] tableau = new int[size][size];
-
-        // Remplissage du tableau avec les valeurs appropriées
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
-                // Le nombre à afficher dépend de la distance à l'une des bordures
-                int minHautGauche = Math.min(i, j);  // Distance minimum au bord supérieur ou gauche
-                int minBasDroite = Math.min(size - i - 1, size - j - 1);  // Distance minimum au bord inférieur ou droit
-                int value = Math.min(minHautGauche, minBasDroite);  // Distance minimale à un quelconque bord
-                tableau[i][j] = n - value;
-            }
-        }
-
-        // Affichage du tableau
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
-                System.out.print(tableau[i][j] + "test");
-            }
-            System.out.println();  // Pour aller à la ligne après chaque rangée
-        }
-
-        scanner.close();  // Fermer le scanner
-    }
-
 }

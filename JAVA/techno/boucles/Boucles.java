@@ -1,12 +1,13 @@
 import java.util.Scanner;
 import java.util.Random;
+import java.math.BigInteger;
 import java.util.Arrays;
 
 public class Boucles {
     public static void main(String[] args) {
 //        exo1();
-//        exo2();
-//        exo3();
+    //    exo2();
+    //    exo3();
 //        exo4();
     }
 
@@ -61,6 +62,9 @@ public class Boucles {
             }
             tentative--;
         } while (tentative > 0);
+        if (tentative == 0) {
+            System.out.println("perdu");
+        }
     }
 
     public static void exo3(){
@@ -69,7 +73,7 @@ public class Boucles {
         int size = scanner.nextInt();
         int[] fibonacci = new int[size];
 
-
+        // Evite bug si l'utilisateur entre 0 ou 1
         if (size >= 1) {
             fibonacci[0] = 0;
         }
@@ -84,15 +88,19 @@ public class Boucles {
         }
         System.out.println("Suite de fibonacci -> " + Arrays.toString(fibonacci));
 
-       // factorialisation
-        int n = fibonacci[size - 1];
-        int factorielle = 1;
-        System.out.println("Nombre a factorialiser -> " + n);
+        // factorialisation un nombre aléatoire de la suite
+        Random random = new Random();
+        int randomNb = random.nextInt(size);
+        // int n = fibonacci[randomNb];
+        BigInteger n = BigInteger.valueOf(fibonacci[randomNb]);
+        long factorielle = 1;
+        System.out.println("Nombre aléatoire à factorialiser -> " + n);
+
 
         // creer tableau de factorielles
-        int[] tabFact = new int [n];
-        int item = n;
-        for (int i = 0; i < n; i++) {
+        int[] tabFact = new int [n.intValue()];
+        int item = n.intValue();
+        for (int i = 0; i < n.intValue(); i++) {
             tabFact[i] = item;
             item = item - 1;
         }
@@ -104,8 +112,6 @@ public class Boucles {
         }
 
         System.out.println("factorielle -> " + factorielle);
-
-
 
 
     }

@@ -165,5 +165,6 @@ fun exo4() {
 
     // si egalité prend le 1e
     println("Le premier plus long palindrome est $result")
+
 }
 
